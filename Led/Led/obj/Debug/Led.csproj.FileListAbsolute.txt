@@ -1,0 +1,11 @@
+C:\Users\lorid\Videos\VS22\Led\Led\bin\Debug\Led.exe.config
+C:\Users\lorid\Videos\VS22\Led\Led\bin\Debug\Led.exe
+C:\Users\lorid\Videos\VS22\Led\Led\bin\Debug\Led.pdb
+C:\Users\lorid\Videos\VS22\Led\Led\obj\Debug\Led.csproj.AssemblyReference.cache
+C:\Users\lorid\Videos\VS22\Led\Led\obj\Debug\Led.csproj.SuggestedBindingRedirects.cache
+C:\Users\lorid\Videos\VS22\Led\Led\obj\Debug\Led.Form1.resources
+C:\Users\lorid\Videos\VS22\Led\Led\obj\Debug\Led.Properties.Resources.resources
+C:\Users\lorid\Videos\VS22\Led\Led\obj\Debug\Led.csproj.GenerateResource.cache
+C:\Users\lorid\Videos\VS22\Led\Led\obj\Debug\Led.csproj.CoreCompileInputs.cache
+C:\Users\lorid\Videos\VS22\Led\Led\obj\Debug\Led.exe
+C:\Users\lorid\Videos\VS22\Led\Led\obj\Debug\Led.pdb
