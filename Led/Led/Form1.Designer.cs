@@ -32,6 +32,7 @@
             this.ResetBTN = new System.Windows.Forms.Button();
             this.NumbersBox = new System.Windows.Forms.FlowLayoutPanel();
             this.led_Test1 = new Led.Led_Test();
+            this.matriceLed1 = new Led.MatriceLed();
             this.SuspendLayout();
             // 
             // MatrixLed
@@ -72,11 +73,22 @@
             this.led_Test1.TabIndex = 0;
             this.led_Test1.Text = "led_Test1";
             // 
+            // matriceLed1
+            // 
+            this.matriceLed1.Location = new System.Drawing.Point(64, 130);
+            this.matriceLed1.MatrixHeight = 5;
+            this.matriceLed1.MatrixWidth = 5;
+            this.matriceLed1.Name = "matriceLed1";
+            this.matriceLed1.Size = new System.Drawing.Size(150, 150);
+            this.matriceLed1.TabIndex = 6;
+            this.matriceLed1.Text = "matriceLed1";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(834, 489);
+            this.Controls.Add(this.matriceLed1);
             this.Controls.Add(this.NumbersBox);
             this.Controls.Add(this.ResetBTN);
             this.Controls.Add(this.MatrixLed);
@@ -96,6 +108,7 @@
         private System.Windows.Forms.Panel MatrixLed;
         private System.Windows.Forms.Button ResetBTN;
         private System.Windows.Forms.FlowLayoutPanel NumbersBox;
+        private MatriceLed matriceLed1;
     }
 }
 

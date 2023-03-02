@@ -1,0 +1,17 @@
+C:\Users\d'aniello.19030\Desktop\Led\Led\bin\Debug\net6.0-windows\Led.exe
+C:\Users\d'aniello.19030\Desktop\Led\Led\bin\Debug\net6.0-windows\Led.deps.json
+C:\Users\d'aniello.19030\Desktop\Led\Led\bin\Debug\net6.0-windows\Led.runtimeconfig.json
+C:\Users\d'aniello.19030\Desktop\Led\Led\bin\Debug\net6.0-windows\Led.dll
+C:\Users\d'aniello.19030\Desktop\Led\Led\bin\Debug\net6.0-windows\Led.pdb
+C:\Users\d'aniello.19030\Desktop\Led\Led\obj\Debug\net6.0-windows\Led.csproj.AssemblyReference.cache
+C:\Users\d'aniello.19030\Desktop\Led\Led\obj\Debug\net6.0-windows\Led.Form1.resources
+C:\Users\d'aniello.19030\Desktop\Led\Led\obj\Debug\net6.0-windows\Led.csproj.GenerateResource.cache
+C:\Users\d'aniello.19030\Desktop\Led\Led\obj\Debug\net6.0-windows\Led.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d'aniello.19030\Desktop\Led\Led\obj\Debug\net6.0-windows\Led.AssemblyInfoInputs.cache
+C:\Users\d'aniello.19030\Desktop\Led\Led\obj\Debug\net6.0-windows\Led.AssemblyInfo.cs
+C:\Users\d'aniello.19030\Desktop\Led\Led\obj\Debug\net6.0-windows\Led.csproj.CoreCompileInputs.cache
+C:\Users\d'aniello.19030\Desktop\Led\Led\obj\Debug\net6.0-windows\Led.dll
+C:\Users\d'aniello.19030\Desktop\Led\Led\obj\Debug\net6.0-windows\refint\Led.dll
+C:\Users\d'aniello.19030\Desktop\Led\Led\obj\Debug\net6.0-windows\Led.pdb
+C:\Users\d'aniello.19030\Desktop\Led\Led\obj\Debug\net6.0-windows\Led.genruntimeconfig.cache
+C:\Users\d'aniello.19030\Desktop\Led\Led\obj\Debug\net6.0-windows\ref\Led.dll
