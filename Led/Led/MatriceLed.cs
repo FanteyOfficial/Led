@@ -26,7 +26,9 @@ namespace Led
         {
             Width = matrixWidth * ledDim;
             Height = matrixHeight * ledDim;
+
             matrix_led = new Led_Test[matrixWidth, matrixHeight];
+
             for (int i = 0; i < matrix_led.GetLength(0); i++)
             {
                 for (int j = 0; j < matrix_led.GetLength(1); j++)
@@ -38,6 +40,19 @@ namespace Led
                     matrix_led[i, j].Location = new Point(matrix_led[i, j].Dimensione * j, matrix_led[i, j].Dimensione * i);
                     this.Controls.Add(matrix_led[i, j]);
                 }
+            }
+        }
+        
+        public int LedDim
+        {
+            get
+            {
+                return ledDim;
+            }
+            set
+            {
+                ledDim = value;
+                this.Invalidate();
             }
         }
 

@@ -31,8 +31,8 @@
             this.MatrixLed = new System.Windows.Forms.Panel();
             this.ResetBTN = new System.Windows.Forms.Button();
             this.NumbersBox = new System.Windows.Forms.FlowLayoutPanel();
-            this.led_Test1 = new Led.Led_Test();
             this.matriceLed1 = new Led.MatriceLed();
+            this.led_Test1 = new Led.Led_Test();
             this.SuspendLayout();
             // 
             // MatrixLed
@@ -63,25 +63,26 @@
             this.NumbersBox.Size = new System.Drawing.Size(834, 103);
             this.NumbersBox.TabIndex = 5;
             // 
+            // matriceLed1
+            // 
+            this.matriceLed1.LedDim = 30;
+            this.matriceLed1.Location = new System.Drawing.Point(46, 48);
+            this.matriceLed1.MatrixHeight = 7;
+            this.matriceLed1.MatrixWidth = 5;
+            this.matriceLed1.Name = "matriceLed1";
+            this.matriceLed1.Size = new System.Drawing.Size(150, 210);
+            this.matriceLed1.TabIndex = 6;
+            this.matriceLed1.Text = "matriceLed1";
+            // 
             // led_Test1
             // 
             this.led_Test1.Colore = System.Drawing.Color.Red;
-            this.led_Test1.Dimensione = 10;
+            this.led_Test1.Dimensione = 20;
             this.led_Test1.Location = new System.Drawing.Point(148, 12);
             this.led_Test1.Name = "led_Test1";
-            this.led_Test1.Size = new System.Drawing.Size(11, 11);
+            this.led_Test1.Size = new System.Drawing.Size(21, 21);
             this.led_Test1.TabIndex = 0;
             this.led_Test1.Text = "led_Test1";
-            // 
-            // matriceLed1
-            // 
-            this.matriceLed1.Location = new System.Drawing.Point(64, 130);
-            this.matriceLed1.MatrixHeight = 5;
-            this.matriceLed1.MatrixWidth = 5;
-            this.matriceLed1.Name = "matriceLed1";
-            this.matriceLed1.Size = new System.Drawing.Size(150, 150);
-            this.matriceLed1.TabIndex = 6;
-            this.matriceLed1.Text = "matriceLed1";
             // 
             // Form1
             // 

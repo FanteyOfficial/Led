@@ -168,6 +168,10 @@ namespace Led
 
         private void resetMatrixLed()
         {
+            matriceLed1.MatrixWidth = 5;
+            matriceLed1.MatrixHeight = 9;
+            
+
             for (int i = 0; i < matrix_led.GetLength(0); i++)
             {
                 for (int j = 0; j < matrix_led.GetLength(1); j++)
